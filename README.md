@@ -28,8 +28,6 @@ src/
 │   ├── Home.jsx
 │   ├── Users.jsx
 │   ├── Todos.jsx
-│   ├── Messages.jsx
-│   └── Reports.jsx
 ├── App.jsx
 └── main.jsx
 ```
